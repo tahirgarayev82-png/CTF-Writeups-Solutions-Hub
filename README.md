@@ -31,3 +31,24 @@ Extend report generator: include difficulty, score, or additional metadata
 Can integrate with GitHub Pages to host Markdown writeups for portfolio
 
 Tip: This hub is for learning and portfolio demonstration. Do not use solutions on live CTFs without permission.
+
+## CTF-Hub/
+│
+├─ reverse/
+│   ├─ reverse_01.py
+│   └─ README.md
+│
+├─ crypto/
+│   ├─ crypto_01.py
+│   └─ README.md
+│
+├─ web/
+│   ├─ web_01.py
+│   └─ README.md
+│
+├─ pwn/
+│   ├─ pwn_01.py
+│   └─ README.md
+│
+└─ report_generator.py
+
